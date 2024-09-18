@@ -60,11 +60,11 @@ body {
 }
 
 .container__imagem {
-    margin: 1em 0 2em 0;
+    margin: none;
 }
 
 .container__caixa {
-    margin: 0 6em;
+    margin: none;
 }
 
 .secundario__imagem {
@@ -73,14 +73,14 @@ body {
 
 .secundario {
     align-items: center;
-    margin: 0 10em;
+    margin: none;
 }
 
 .descricao__titulo {
     font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
-    margin-bottom: 0.1em;
+    margin-bottom: none;
 }
 
 .descricao__texto {
@@ -100,7 +100,7 @@ body {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin: 5em 0;
+    margin: none;
 }
 
 .dispositivos {
